@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " V",
+    "VVV",
+    " V"
+  ],
+  "key": {
+    "V": {
+      "item": "rwrk:void_crystal"
+    }
+  },
+  "result": {
+    "item": "rwrk:sonic_boom_device",
+    "count": 1
+  }
+}

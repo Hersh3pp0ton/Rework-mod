@@ -1,0 +1,37 @@
+/give @s rwrk:sonic_boom_device
+/summon minecraft:axolotl
+/give @s rwrk:sonic_boom_device
+/summon minecraft:blaze -156.30 64.00 123.31 4
+/summon minecraft:blaze
+/give @s rwrk:void_ore 64
+/give @s rwrk:wardens_larynx 64
+/give @s craft
+/give @s minecraft:crafting_table
+/gamemode survival
+/give @s rwrk:wardens_larynx 64
+/give @s rwrk:void_ore 64
+/give @s minecraft:crafting_table
+/gamemode survival
+/give @s rwrk:void_ore 64
+/give @s rwrk:wardens_larynx 64
+/give @s minecraft:crafting_table
+/gamemode survival
+/give Dev rwrk:void_ore
+/give @s rwrk:wardens_larynx 1
+/give Dev rwrk:void_ore 63
+/give @s minecraft:crafting_table
+/gamemode
+/gamemode survival
+/give @s rwrk:amethyst_boots
+/give @s rwrk:wa
+/give dev rwrk:wardens_larynx
+/give dev rwrk:void_ore 4
+/give dev cra
+/give dev crafti
+/give dec minecraft:crafting_table
+/give @s minecraft:crafting_table
+/gamemode survival
+/give dev rwrk:void_ore 64
+/give dev rwrk:wardens_larynx
+/give @s minecraft:crafting_table
+/gamemode survival

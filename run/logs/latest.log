@@ -1,0 +1,159 @@
+[03gen2024 18:12:30.297] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 12, --assetsDir, C:\Users\MSI\.gradle\caches\forge_gradle\assets, --gameDir, .]
+[03gen2024 18:12:30.301] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 17.0.9+9
+[03gen2024 18:12:30.303] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.1.2 starting: java version 17.0.9 by Eclipse Adoptium; OS Windows 10 arch amd64 version 10.0
+[03gen2024 18:12:30.479] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[03gen2024 18:12:30.654] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[03gen2024 18:12:30.860] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[03gen2024 18:12:31.010] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 3060/PCIe/SSE2 GL version 4.6.0 NVIDIA 546.29, NVIDIA Corporation
+[03gen2024 18:12:31.019] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar!/ Service=ModLauncher Env=CLIENT
+[03gen2024 18:12:31.770] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[03gen2024 18:12:32.869] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\MSI\.gradle\caches\forge_gradle\assets, --assetIndex, 12]
+[03gen2024 18:12:33.506] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.properties]
+[03gen2024 18:12:33.824] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:///C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties, jar:file:/C:/Users/MSI/.gradle/caches/modules-2/files-2.1/com.github.oshi/oshi-core/6.4.5/943ba26de047eb6b28fff47f5ee939a34eb5fc8e/oshi-core-6.4.5.jar!/oshi.architecture.properties]
+[03gen2024 18:12:36.191] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 198 Datafixer optimizations took 112 milliseconds
+[03gen2024 18:12:37.646] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/MSI/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.0.14_mapped_official_1.20.4/forge-1.20.4-49.0.14_mapped_official_1.20.4.jar%2316!/assets/.mcassetsroot' uses unexpected schema
+[03gen2024 18:12:37.646] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/MSI/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.4-49.0.14_mapped_official_1.20.4/forge-1.20.4-49.0.14_mapped_official_1.20.4.jar%2316!/data/.mcassetsroot' uses unexpected schema
+[03gen2024 18:12:37.673] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03gen2024 18:12:37.690] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[03gen2024 18:12:37.780] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.2+13
+[03gen2024 18:12:38.059] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 49.0.14, for MC 1.20.4 with MCP 20231207.112700
+[03gen2024 18:12:38.061] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v49.0.14 Initialized
+[03gen2024 18:12:38.934] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [rwrk]
+[03gen2024 18:12:39.040] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[03gen2024 18:12:39.131] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.1.04.hex, loading
+[03gen2024 18:12:39.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03gen2024 18:12:39.214] [Worker-Main-1/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/mob/wolf/armor_equip1.ogg does not exist, cannot add it to event minecraft:entity.wolf.armor_equip
+[03gen2024 18:12:39.215] [Worker-Main-1/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/mob/wolf/armor_equip1.ogg does not exist, cannot add it to event minecraft:entity.wolf.armor_equip
+[03gen2024 18:12:39.215] [Worker-Main-1/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/mob/wolf/armor_equip2.ogg does not exist, cannot add it to event minecraft:entity.wolf.armor_equip
+[03gen2024 18:12:39.215] [Worker-Main-1/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/mob/wolf/armor_equip2.ogg does not exist, cannot add it to event minecraft:entity.wolf.armor_equip
+[03gen2024 18:12:39.215] [Worker-Main-1/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/mob/wolf/armor_unequip1.ogg does not exist, cannot add it to event minecraft:entity.wolf.armor_unequip
+[03gen2024 18:12:39.216] [Worker-Main-1/WARN] [net.minecraft.client.sounds.SoundManager/]: File minecraft:sounds/mob/wolf/armor_unequip2.ogg does not exist, cannot add it to event minecraft:entity.wolf.armor_unequip
+[03gen2024 18:12:39.751] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 49.0.14 Target: 49.0.14
+[03gen2024 18:12:39.935] [Worker-Main-4/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'rwrk:amethyst_helmet#inventory' referenced from: rwrk:amethyst_helmet#inventory: java.io.FileNotFoundException: rwrk:models/item/amethyst_helmet.json
+[03gen2024 18:12:39.935] [Worker-Main-4/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'rwrk:amethyst_chestplate#inventory' referenced from: rwrk:amethyst_chestplate#inventory: java.io.FileNotFoundException: rwrk:models/item/amethyst_chestplate.json
+[03gen2024 18:12:39.935] [Worker-Main-4/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'rwrk:amethyst_leggings#inventory' referenced from: rwrk:amethyst_leggings#inventory: java.io.FileNotFoundException: rwrk:models/item/amethyst_leggings.json
+[03gen2024 18:12:39.935] [Worker-Main-4/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'rwrk:amethyst_boots#inventory' referenced from: rwrk:amethyst_boots#inventory: java.io.FileNotFoundException: rwrk:models/item/amethyst_boots.json
+[03gen2024 18:12:40.501] [Worker-Main-4/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model rwrk:sonic_boom_device#inventory:
+    minecraft:textures/atlas/blocks.png:rwrk:item/sonic_boom_device
+[03gen2024 18:12:40.501] [Worker-Main-4/WARN] [net.minecraft.client.resources.model.ModelManager/]: Missing textures in model rwrk:wardens_larynx#inventory:
+    minecraft:textures/atlas/blocks.png:rwrk:item/wardens_larynx
+[03gen2024 18:12:41.452] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[03gen2024 18:12:41.452] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[03gen2024 18:12:41.495] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Realtek HD Audio 2nd output (Realtek(R) Audio)
+[03gen2024 18:12:41.496] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[03gen2024 18:12:41.601] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[03gen2024 18:12:41.608] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[03gen2024 18:12:41.609] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[03gen2024 18:12:41.609] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[03gen2024 18:12:41.609] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[03gen2024 18:12:41.612] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[03gen2024 18:12:41.612] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[03gen2024 18:12:41.612] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[03gen2024 18:12:41.612] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[03gen2024 18:12:41.853] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[03gen2024 18:12:41.910] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[03gen2024 18:12:41.911] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[03gen2024 18:12:41.911] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[03gen2024 18:12:41.911] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[03gen2024 18:12:42.178] [IO-Worker-1/INFO] [com.mojang.realmsclient.client.RealmsClient/]: Could not authorize you against Realms server: Invalid session id
+[03gen2024 18:12:42.178] [IO-Worker-1/ERROR] [com.mojang.realmsclient.RealmsAvailability/]: Couldn't connect to realms
+com.mojang.realmsclient.exception.RealmsServiceException: Realms authentication error with message 'Invalid session id'
+	at com.mojang.realmsclient.client.RealmsClient.execute(RealmsClient.java:447) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar%2316!/:?]
+	at com.mojang.realmsclient.client.RealmsClient.clientCompatible(RealmsClient.java:232) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar%2316!/:?]
+	at com.mojang.realmsclient.RealmsAvailability.lambda$check$0(RealmsAvailability.java:45) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar%2316!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03gen2024 18:12:47.831] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe rwrk:sonic_boom_device
+com.google.gson.JsonParseException: Invalid pattern: each row must be the same width; Map entry 'V' : No key tag in MapLike[{"item":"rwrk:void_crystal"}]; Item must not be minecraft:air; Not a json array: {"item":"rwrk:void_crystal"}; Input does not contain a key [type]: MapLike[{"item":"rwrk:void_crystal"}]
+	at net.minecraft.Util.getOrThrow(Util.java:839) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:158) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:67) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.world.item.crafting.RecipeManager.apply(RecipeManager.java:34) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.lambda$reload$1(SimplePreparableReloadListener.java:13) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.lambda$new$3(SimpleReloadInstance.java:69) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:156) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:130) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldDataBlocking(WorldOpenFlows.java:154) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadWorldStem(WorldOpenFlows.java:127) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadLevel(WorldOpenFlows.java:294) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.loadLevel(WorldOpenFlows.java:283) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.checkForBackupAndLoad(WorldOpenFlows.java:264) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldOpenFlows.checkForBackupAndLoad(WorldOpenFlows.java:203) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.joinWorld(WorldSelectionList.java:456) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry.mouseClicked(WorldSelectionList.java:437) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.components.AbstractSelectionList.mouseClicked(AbstractSelectionList.java:279) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.components.events.ContainerEventHandler.mouseClicked(ContainerEventHandler.java:38) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.MouseHandler.lambda$onPress$0(MouseHandler.java:93) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.gui.screens.Screen.wrapScreenError(Screen.java:443) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.MouseHandler.onPress(MouseHandler.java:90) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.MouseHandler.lambda$setup$4(MouseHandler.java:197) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.MouseHandler.lambda$setup$5(MouseHandler.java:196) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at org.lwjgl.glfw.GLFWMouseButtonCallbackI.callback(GLFWMouseButtonCallbackI.java:43) ~[lwjgl-glfw-3.3.2.jar:build 13]
+	at org.lwjgl.system.JNI.invokeV(Native Method) ~[lwjgl-3.3.2.jar:build 13]
+	at org.lwjgl.glfw.GLFW.glfwWaitEventsTimeout(GLFW.java:3509) ~[lwjgl-glfw-3.3.2.jar:build 13]
+	at com.mojang.blaze3d.systems.RenderSystem.limitDisplayFPS(RenderSystem.java:238) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1277) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.Minecraft.run(Minecraft.java:801) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:234) ~[forge-1.20.4-49.0.14_mapped_official_1.20.4.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:91) ~[fmlloader-1.20.4-49.0.14.jar:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$makeService$0(CommonLaunchHandler.java:75) ~[fmlloader-1.20.4-49.0.14.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) ~[modlauncher-10.1.2.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:74) ~[modlauncher-10.1.2.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:114) ~[modlauncher-10.1.2.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:73) ~[modlauncher-10.1.2.jar:?]
+	at cpw.mods.modlauncher.BootstrapEntry.main(BootstrapEntry.java:17) ~[modlauncher-10.1.2.jar:?]
+	at net.minecraftforge.bootstrap.Bootstrap.moduleMain(Bootstrap.java:97) ~[bootstrap-2.0.0.jar!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.bootstrap.Bootstrap.start(Bootstrap.java:48) ~[bootstrap-2.0.0.jar!/:?]
+	at net.minecraftforge.bootstrap.ForgeBootstrap.main(ForgeBootstrap.java:18) ~[bootstrap-2.0.0.jar!/:?]
+[03gen2024 18:12:47.855] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[03gen2024 18:12:47.996] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1271 advancements
+[03gen2024 18:12:48.403] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.4
+[03gen2024 18:12:48.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03gen2024 18:12:49.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03gen2024 18:12:51.094] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03gen2024 18:12:51.129] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03gen2024 18:12:51.129] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03gen2024 18:12:51.129] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03gen2024 18:12:51.381] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03gen2024 18:12:51.885] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[03gen2024 18:12:51.936] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03gen2024 18:12:51.941] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2576 ms
+[03gen2024 18:12:52.130] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[03gen2024 18:12:52.130] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[03gen2024 18:12:53.485] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
+[03gen2024 18:12:53.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:3fa3285f] logged in with entity id 228 at (8.030626845863535, 75.0, -2.8616011380211535)
+[03gen2024 18:12:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[03gen2024 18:12:53.987] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 5 advancements
+[03gen2024 18:13:04.787] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[03gen2024 18:13:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[03gen2024 18:13:04.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[03gen2024 18:13:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[03gen2024 18:13:05.772] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[03gen2024 18:13:05.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[03gen2024 18:13:05.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[03gen2024 18:13:05.871] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[03gen2024 18:13:05.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03gen2024 18:13:05.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03gen2024 18:13:05.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03gen2024 18:13:06.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[03gen2024 18:13:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[03gen2024 18:13:06.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[03gen2024 18:13:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[03gen2024 18:13:06.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03gen2024 18:13:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03gen2024 18:13:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

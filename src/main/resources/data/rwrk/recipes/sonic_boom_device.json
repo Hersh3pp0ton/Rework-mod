@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " V",
+    "VLV",
+    " V"
+  ],
+  "key": {
+    "V": {
+      "item": "rwrk:void_crystal"
+    },
+    "L": {
+      "item": "rwrk:wardens_larynx"
+    }
+  },
+  "result": {
+<<<<<<< Updated upstream
+    "item": "rwrk:sonic_boom_device"
+=======
+    "item": "rwrk:sonic_boom_device",
+    "count": 1
+>>>>>>> Stashed changes
+  }
+}
